@@ -1,4 +1,8 @@
-# Ai-Interviewer-HirePro
+## Installation and Running the Project
+
+Clone the repository and set up the environment:
+
+```bash
 git clone https://github.com/Siddhubn/AI-Interview/
 cd AI-Interview
 .venv\Scripts\activate
